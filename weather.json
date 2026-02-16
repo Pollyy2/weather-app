@@ -1,1 +1,6 @@
-null
+{
+    "city": "Hawaii",
+    "temperature": 19.48,
+    "date": "16.02.2026",
+    "message": "Temperature is over 15 C."
+}
